@@ -33,7 +33,7 @@ export default function Header() {
           <Link href="/" className="flex items-center">
             <Image
               src="/logo3.png"
-              alt="Spott logo"
+              alt="Hostiva"
               width={500}
               height={500}
               className="w-full h-11"
