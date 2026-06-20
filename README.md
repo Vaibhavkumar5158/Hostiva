@@ -3,6 +3,7 @@
 Hostiva is a modern event management and discovery platform built using **Next.js,Clerk, and Convex**. It helps users discover, create, and manage events through a clean, responsive, and user-friendly interface.
 
 The platform is designed for people who want to explore events across different cities and states, register for events, and manage their tickets in one place.
+![Uploading image.png…]()
 
 ## Live Demo
 
