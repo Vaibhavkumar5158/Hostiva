@@ -81,7 +81,14 @@ I worked on:
 
 This project helped me improve my understanding of full-stack development, routing, authentication, database integration, filtering logic, and real-world product design.
 
+About Me
 
+Vaibhav Kumar
+B.Tech Computer Science and Engineering student at VIT Bhopal.
+
+GitHub: https://github.com/Vaibhavkumar5158
+LinkedIn: Add your LinkedIn profile link here
+Email: vaibhavkumar5158@gmail.com
 
 ## Onboarding
 
